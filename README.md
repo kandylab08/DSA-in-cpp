@@ -12,6 +12,7 @@ My Data Structures and Algorithms journey in c++.
 
 | Topic | Solved |
 |-------|-------:|
+| Basics | 0 |
 | Arrays | 0 |
 | Strings | 0 |
 | Linked List | 0 |
@@ -26,6 +27,7 @@ My Data Structures and Algorithms journey in c++.
 
 ## 📂 Folder Structure
 
+- 📁 Basics
 - 📁 Arrays
 - 📁 Strings
 - 📁 LinkedList
