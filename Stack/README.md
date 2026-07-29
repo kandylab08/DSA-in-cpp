@@ -1,1 +1,1 @@
-This folder contaims my solutions to stack problems in C++.
+This folder contains my solutions to stack problems in C++.
