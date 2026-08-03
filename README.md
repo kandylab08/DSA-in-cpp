@@ -14,7 +14,7 @@ My Data Structures and Algorithms journey in c++.
 | Topic               | Solved |
 | ------------------- | -----: |
 | Basics              |      1 |
-| Arrays              |      4 |
+| Arrays              |      5 |
 | Strings             |      3 |
 | Linked List         |      0 |
 | Stack               |      1 |
@@ -22,7 +22,7 @@ My Data Structures and Algorithms journey in c++.
 | Trees               |      0 |
 | Graphs              |      0 |
 | Dynamic Programming |      0 |
-| **Total**           |  **9** |
+| **Total**           |  **10** |
 
 ---
 
