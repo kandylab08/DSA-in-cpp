@@ -14,15 +14,15 @@ My Data Structures and Algorithms journey in c++.
 | Topic               | Solved |
 | ------------------- | -----: |
 | Basics              |      1 |
-| Arrays              |      20 |
-| Strings             |      6 |
+| Arrays              |      21 |
+| Strings             |      7 |
 | Linked List         |      1 |
 | Stack               |      7 |
 | Queue               |      0 |
 | Trees               |      0 |
 | Graphs              |      0 |
 | Dynamic Programming |      0 |
-| **Total**           |  **35** |
+| **Total**           |  **37** |
 
 ---
 
