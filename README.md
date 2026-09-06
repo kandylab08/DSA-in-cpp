@@ -16,13 +16,13 @@ My Data Structures and Algorithms journey in c++.
 | Basics              |      1 |
 | Arrays              |      26 |
 | Strings             |      7 |
-| Linked List         |      2 |
+| Linked List         |      3 |
 | Stack               |      7 |
 | Queue               |      0 |
 | Trees               |      0 |
 | Graphs              |      0 |
 | Dynamic Programming |      0 |
-| **Total**           |  **43** |
+| **Total**           |  **44** |
 
 ---
 
