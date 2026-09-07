@@ -18,11 +18,11 @@ My Data Structures and Algorithms journey in c++.
 | Strings             |      7 |
 | Linked List         |      3 |
 | Stack               |      7 |
-| Queue               |      0 |
+| Queue               |      1 |
 | Trees               |      0 |
 | Graphs              |      0 |
 | Dynamic Programming |      0 |
-| **Total**           |  **44** |
+| **Total**           |  **45** |
 
 ---
 
